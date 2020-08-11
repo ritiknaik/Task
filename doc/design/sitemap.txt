@@ -1,0 +1,50 @@
+Directory Layout:
+-----------------
+
+Root url -> doc.gold.ac.uk/~echam001/webdev/
+root/webdev/:
+ > css/
+   > vendor/
+     - bootstrap.min.css
+   - main.css
+   - normalize.css
+
+ > doc/
+   > design/
+     - detailedWireframes.pub
+     - initialDesign.docx
+     - Research.docx
+     - roughWireframes.pub
+     - sitemap.txt
+
+ > img/
+   > icons/
+     - All Icons with different sizes
+   > sponsors/
+     - All images of sponsor logos
+
+ > js/
+   > vendor/
+     - bootstrap.min.js
+     - jquery-3.3.1.min.js
+     - modernizr-3.6.0.min.js
+    - main.js
+    - plugins.js
+
+ > licenses/
+   - boiler-plate.txt
+   
+ - .editorconfig
+ - 404.html
+ - archive.html
+ - browserconfig.xml
+ - contact-us.html
+ - favicon.icons
+ - humans.txt
+ - index.html
+ - latestnews.html
+ - manifest.json
+ - report.html
+ - robots.txt
+ - sitemap.xml
+ - sponsorship.html
