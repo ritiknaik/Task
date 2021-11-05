@@ -105,7 +105,7 @@ header {
     height: 150px;
     font-weight: bold;
     text-align: center;
-    background: #ff335f;
+    background: #3347ff;
     transition: .3s;
     margin-right: 0px;
     margin-left: 0px;
@@ -139,7 +139,7 @@ header h1 {
     margin-left: 2px;
     padding: 3px;
     overflow: hidden;
-    background-color: #ff335f;
+    background-color: #3347ff;
 }
   
 .topnav a {
@@ -152,7 +152,7 @@ header h1 {
 }
   
 .topnav .active, .topnav a:hover {
-    background-color: #fe0c40;
+    background-color: #000000;
 }
 
 .topnav .icon {
